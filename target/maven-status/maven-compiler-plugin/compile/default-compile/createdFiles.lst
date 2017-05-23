@@ -1,0 +1,4 @@
+com\compraventacliente\front\controller\HomeController.class
+com\compraventacliente\front\servicio\UserServiceImpl.class
+com\compraventacliente\front\servicio\UserService.class
+com\compraventacliente\front\modelo\User.class
